@@ -6,8 +6,8 @@ from llm_reasoning import EMOTION_LABELS
 
 
 DATA_PATHS = {
-    'IEMOCAP': '/data/zzb/data/iemocap_multimodal_features.pkl',
-    'MELD': '/data/zzb/data/meld_multimodal_features.pkl',
+    'IEMOCAP': '/data/iemocap_multimodal_features.pkl',
+    'MELD': '/data/meld_multimodal_features.pkl',
 }
 
 

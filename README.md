@@ -1,1 +1,1 @@
-EACC: Evidence-Anchored Cognitive Caching and Quality Calibration for Multimodal Emotion Recognition in Conversation
+EACC: Evidence-Anchored Cognitive Caching with Quality-Controlled Residual Fusion for Multimodal Emotion Recognition in Conversation
